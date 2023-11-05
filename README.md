@@ -13,4 +13,5 @@ https://hosts.anudeep.me/mirror/CoinMiner.txt
 https://big.oisd.nl  
 https://nsfw.oisd.nl  
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt  
-https://github.com/romeo81/block-list/blob/main/ip-tables-russian.txt
+
+https://raw.githubusercontent.com/romeo81/block-list/main/ip-tables-all-chinese.txt  
