@@ -12,3 +12,4 @@ https://hosts.anudeep.me/mirror/facebook.txt
 https://hosts.anudeep.me/mirror/CoinMiner.txt 
 https://big.oisd.nl  
 https://nsfw.oisd.nl
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
